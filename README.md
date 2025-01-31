@@ -11,3 +11,11 @@ Portal da Transparência: [Acesse os dados aqui](https://portaldatransparencia.g
 2. Organize os arquivos: Coloque os arquivos .csv dentro da pasta data do projeto.
 
 Após isso, o script estará pronto para ser executado.
+
+## Prévia
+
+### Número de viagens por cargo público
+![Gráfico Barra](output/grafico_barra.png)
+---
+### Quantidade de dias de viagens por despesas
+![Gráfico Dispersão](output/grafico_dispersao.png)
